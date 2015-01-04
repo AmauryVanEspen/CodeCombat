@@ -1,0 +1,6 @@
+# Restez à l'abri du regard de l'ogre. Ramassez les gemmes.
+self.moveRight()
+self.moveUp()
+self.moveRight()
+self.moveDown()
+self.moveRight()
