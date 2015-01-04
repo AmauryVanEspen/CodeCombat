@@ -1,0 +1,8 @@
+# Ramassez toutes les gemmes en utilisant vos commandes move.
+
+self.moveRight()
+self.moveDown()
+self.moveUp()
+self.moveUp()
+self.moveRight()
+self.moveDown()
