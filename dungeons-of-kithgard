@@ -1,0 +1,7 @@
+# Allez jusqu'a la gemme.
+# Ne touchez pas les murs!
+# Tapez votre code ci-dessous.
+
+self.moveRight()
+self.moveDown()
+self.moveRight()
